@@ -1,0 +1,2 @@
+path/to/GESTIONNAIRE_DE_STOCK_1.5_WINDOWS_SETUP.exe filter=lfs diff=lfs merge=lfs -text
+GESTIONNAIRE_DE_STOCK_1.5_WINDOWS_SETUP.exe filter=lfs diff=lfs merge=lfs -text
