@@ -26,8 +26,8 @@ Manage incoming and outgoing orders efficiently. Create, edit, and fulfill order
 
 To install the Stock Management Application:
 
-1. Download the executable file.
-2. Install the application.
+1. Download the Repository
+2. run the file Gstock.py
 
 ## Usage
 
