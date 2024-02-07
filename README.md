@@ -1,5 +1,3 @@
-@@ -1 +1,42 @@
-# gestionnaire_de_stock
 # Stock Management Application
 
 ## Overview
